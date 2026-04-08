@@ -44,5 +44,4 @@ https://cs50.harvard.edu/x/weeks/ai/
 
 ### Intro to Large Language Models - Andrej Karpathy (Nov 2023)
 - 1 hour [youtube](https://www.youtube.com/watch?v=zjkBMFhNj_g)
-- general-audience introduction to Large Language Models
-- explain some technical details
+- general-audience introduction to Large Language Models with technical details
