@@ -25,4 +25,4 @@ https://cs50.harvard.edu/x/weeks/ai/
 
 ###  CS221: Artificial Intelligence: Principles and Techniques (Stanford, Autumn 2025)
 https://stanford-cs221.github.io/autumn2025/
-https://www.youtube.com/playlist?list=PLoROMvodv4rMeDqwS1yFl3j3sR_-MQNEN
+Lectures (https://www.youtube.com/playlist?list=PLoROMvodv4rMeDqwS1yFl3j3sR_-MQNEN)
