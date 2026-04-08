@@ -9,7 +9,7 @@ Topics: shell, Git, automation, agentic coding
 
 - Shell is mainly for Linux and macOS. For Windows, WSL is recommended rather than PowerShell.
 - 9 lectures with exercises
-- The "Agentic Coding" lecture is very interesting.
+- The ["Agentic Coding"](https://missing.csail.mit.edu/2026/agentic-coding/) lecture is very interesting.
 
 ### CS50’s Introduction to Artificial Intelligence with Python (Harvard, 2020)
 https://cs50.harvard.edu/ai/
