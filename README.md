@@ -20,5 +20,5 @@ Topics: core ideas behind modern AI (search, knowledge, uncertainty, optimizatio
 - The lectures are from 2020, but the general AI topics are still up to date.
 - 7 lectures (about 2 hours each) + 12 Python projects
 
-### 1-hour Introduction to AI by Prof. Malan - from CS50’s Introduction to Computer Science
+### 1-hour Introduction to AI by Prof. Malan - part of CS50’s Introduction to Computer Science
 https://cs50.harvard.edu/x/weeks/ai/
