@@ -26,3 +26,15 @@ https://cs50.harvard.edu/x/weeks/ai/
 ###  CS221: Artificial Intelligence: Principles and Techniques (Stanford, Autumn 2025)
 - https://stanford-cs221.github.io/autumn2025/
 - [Lectures at youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rMeDqwS1yFl3j3sR_-MQNEN)
+
+### 6.S191 Introduction to Deep Learning (MIT, 2026)
+- https://introtodeeplearning.com/
+- 9 Lectures, 3 Labs
+- Lectures from 2026 are publihing Every Monday Mar 30 - Mon May 25, 2026. Lectures from prev years exist already.
+
+### 15.773 Hands-on Deep Learning (MIT, Spring 2024)
+- https://ocw.mit.edu/courses/15-773-hands-on-deep-learning-spring-2024/
+- 11 lectures, 2 homeworks
+- Sloan School of Management,
+- emphasis on connecting new technology to sources of business value.
+
