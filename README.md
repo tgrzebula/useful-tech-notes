@@ -38,3 +38,10 @@ https://cs50.harvard.edu/x/weeks/ai/
 - Sloan School of Management,
 - emphasis on connecting new technology to sources of business value.
 
+### How I use LLMs - Andrej Karpathy (Feb 2025)
+- 2h [youtube](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+- The best introduction on practical usage of AI.
+- Still is valid.
+
+### Intro to Large Language Models - Andrej Karpathy (Nov 2023)
+- [1 hour general-audience introduction to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
