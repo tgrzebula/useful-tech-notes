@@ -1,15 +1,8 @@
 # useful-tech-notes
 
+AI > Machine Learning > Deep Learning > Large Languge Model
+
 There are many completely free resources from top universities.
-
-### The Missing Semester of Your CS Education (MIT, 2026)
-https://missing.csail.mit.edu/2026/
-
-Topics: shell, Git, automation, agentic coding
-
-- Shell is mainly for Linux and macOS. For Windows, WSL is recommended rather than PowerShell.
-- 9 lectures with exercises
-- The ["Agentic Coding"](https://missing.csail.mit.edu/2026/agentic-coding/) lecture is very interesting.
 
 ### CS50’s Introduction to Artificial Intelligence with Python (Harvard, 2020)
 https://cs50.harvard.edu/ai/
@@ -45,3 +38,14 @@ https://cs50.harvard.edu/x/weeks/ai/
 ### Intro to Large Language Models - Andrej Karpathy (Nov 2023)
 - 1 hour [youtube](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 - general-audience introduction to Large Language Models with technical details
+
+
+
+-------------------------
+### The Missing Semester of Your CS Education (MIT, 2026)
+https://missing.csail.mit.edu/2026/
+- Topics: shell, Git, automation, agentic coding
+- Shell is mainly for Linux and macOS. For Windows, WSL is recommended rather than PowerShell.
+- 9 lectures with exercises
+- The ["Agentic Coding"](https://missing.csail.mit.edu/2026/agentic-coding/) lecture is very interesting.
+
