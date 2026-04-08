@@ -24,5 +24,5 @@ Topics: core ideas behind modern AI (search, knowledge, uncertainty, optimizatio
 https://cs50.harvard.edu/x/weeks/ai/
 
 ###  CS221: Artificial Intelligence: Principles and Techniques (Stanford, Autumn 2025)
-https://stanford-cs221.github.io/autumn2025/
-Lectures (https://www.youtube.com/playlist?list=PLoROMvodv4rMeDqwS1yFl3j3sR_-MQNEN)
+- https://stanford-cs221.github.io/autumn2025/
+- [Lectures at youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rMeDqwS1yFl3j3sR_-MQNEN)
