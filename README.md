@@ -56,3 +56,7 @@ https://missing.csail.mit.edu/2026/
 - 9 lectures with exercises
 - The ["Agentic Coding"](https://missing.csail.mit.edu/2026/agentic-coding/) lecture is very interesting.
 
+
+### New Anthropic courses 
+- https://anthropic.skilljar.com/
+- including Claude Code
