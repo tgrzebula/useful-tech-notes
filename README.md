@@ -48,6 +48,9 @@ https://cs50.harvard.edu/x/weeks/ai/
 - General AI Assistants: ChatGPT, Claude, Gemini, Microsoft 365 Copilot
 - AI Tools: NotebookLM, Claude Cowork
 
+-------------
+- Prompt Engineering, RAG, Model fine-tuning
+
 -------------------------
 ### The Missing Semester of Your CS Education (MIT, 2026)
 https://missing.csail.mit.edu/2026/
