@@ -1,9 +1,10 @@
 # useful-tech-notes
 
-AI > Machine Learning > Deep Learning > Large Languge Model
-
 There are many completely free resources from top universities.
 
+AI > Machine Learning > Deep Learning > Large Languge Model
+
+## AI
 ### CS50’s Introduction to Artificial Intelligence with Python (Harvard, 2020)
 https://cs50.harvard.edu/ai/
 
@@ -20,6 +21,7 @@ https://cs50.harvard.edu/x/weeks/ai/
 - https://stanford-cs221.github.io/autumn2025/
 - [Lectures at youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rMeDqwS1yFl3j3sR_-MQNEN)
 
+## Deep Learning
 ### 6.S191 Introduction to Deep Learning (MIT, 2026)
 - https://introtodeeplearning.com/
 - 9 Lectures, 3 Labs
