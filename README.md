@@ -41,12 +41,12 @@ https://cs50.harvard.edu/x/weeks/ai/
 - 1 hour [youtube](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 - general-audience introduction to Large Language Models with technical details
 
-------------------
-- TensorFlow, PyTorch
-- LLM API, LangChain, RAG, 
-- Gen AI Tools for Software Engineer: Cloude Code, Codex, Cursor, Github Copilot,
-- Gen AI Tools General purpose: ChatGPT, Claude, Gemini, M365 Copilot
--- NotebookLM, Claude Cowork,
+-------------------------
+- Deep Learning Frameworks: TensorFlow, PyTorch
+- LLM Development: LLM APIs, LangChain, RAG
+- AI Coding Tools: Claude Code, Codex, Cursor, GitHub Copilot
+- General AI Assistants: ChatGPT, Claude, Gemini, Microsoft 365 Copilot
+- AI Tools: NotebookLM, Claude Cowork
 
 -------------------------
 ### The Missing Semester of Your CS Education (MIT, 2026)
