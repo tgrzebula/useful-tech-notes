@@ -7,10 +7,8 @@ AI > Machine Learning > Deep Learning > Large Languge Model
 ## AI
 ### CS50’s Introduction to Artificial Intelligence with Python (Harvard, 2020)
 https://cs50.harvard.edu/ai/
-
-Topics: core ideas behind modern AI (search, knowledge, uncertainty, optimization, learning, neural networks, language)
-
-- Use the link above for free lessons and certification. A Google search will usually redirect you to edX, where there are some limitations and the certificate is paid.
+- Topics: core ideas behind modern AI (search, knowledge, uncertainty, optimization, learning, neural networks, language)
+- Use the link above for free lessons and certification. A Google search result will usually redirect you to edX, where there are some limitations and the certificate is paid.
 - The lectures are from 2020, but the general AI topics are still up to date.
 - 7 lectures (about 2 hours each) + 12 Python projects
 
