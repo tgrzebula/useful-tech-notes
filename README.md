@@ -36,7 +36,7 @@ https://cs50.harvard.edu/x/weeks/ai/
 - https://agenticai-learning.org/
 - more cources, including historical: https://rdi.berkeley.edu/education
 
-
+## LLM Usage and Intro
 ### How I use LLMs - Andrej Karpathy (Feb 2025)
 - 2h [youtube](https://www.youtube.com/watch?v=EWvNQjAaOHw)
 - The best introduction on practical usage of AI.
