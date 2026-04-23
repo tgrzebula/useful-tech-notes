@@ -31,6 +31,11 @@ https://cs50.harvard.edu/x/weeks/ai/
 - Sloan School of Management,
 - emphasis on connecting new technology to sources of business value.
 
+### Agentic AI MOOC (Berkeley Fall 2025)
+- https://agenticai-learning.org/
+- more cources, including historical: https://rdi.berkeley.edu/education
+
+
 ### How I use LLMs - Andrej Karpathy (Feb 2025)
 - 2h [youtube](https://www.youtube.com/watch?v=EWvNQjAaOHw)
 - The best introduction on practical usage of AI.
