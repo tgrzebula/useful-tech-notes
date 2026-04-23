@@ -31,6 +31,7 @@ https://cs50.harvard.edu/x/weeks/ai/
 - Sloan School of Management,
 - emphasis on connecting new technology to sources of business value.
 
+## AI Engineering
 ### Agentic AI MOOC (Berkeley Fall 2025)
 - https://agenticai-learning.org/
 - more cources, including historical: https://rdi.berkeley.edu/education
