@@ -29,7 +29,6 @@ https://cs50.harvard.edu/x/weeks/ai/
 ### 6.S191 Introduction to Deep Learning (MIT, 2026)
 - https://introtodeeplearning.com/
 - 9 Lectures, 3 Labs
-- Lectures from 2026 are publihing Every Monday Mar 30 - Mon May 25, 2026. Lectures from prev years exist already.
 
 ### 15.773 Hands-on Deep Learning (MIT, Spring 2024)
 - https://ocw.mit.edu/courses/15-773-hands-on-deep-learning-spring-2024/
