@@ -19,6 +19,12 @@ https://cs50.harvard.edu/x/weeks/ai/
 - https://stanford-cs221.github.io/autumn2025/
 - [Lectures at youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rMeDqwS1yFl3j3sR_-MQNEN)
 
+### MGMT298D: Science and Strategy of Artificial Intelligence (UCLA Anderson, Spring 2026)
+- 10 week MBA. 3 ML + 4 DL + 3 Building LLM Apps
+- for a non-technical, but includes some/many technical tasks
+- lack of video lectures
+
+
 ## Deep Learning
 ### 6.S191 Introduction to Deep Learning (MIT, 2026)
 - https://introtodeeplearning.com/
