@@ -19,7 +19,7 @@ A curated collection of completely **free**, **up-to-date** courses (mostly upda
 - [Course Website](https://ucla-anderson-ssai.github.io/SSAI/)
 - 10 week MBA. 3 ML + 4 DL + 3 Building LLM Apps
 - For non-technical students, but includes some technical tasks
-- Lack of video lectures
+- **Lack of video** lectures
 
 ### 1-hour Introduction to AI by Prof. Malan - part of CS50’s Introduction to Computer Science
 - [Lecture Video & Materials](https://cs50.harvard.edu/x/weeks/ai/)
