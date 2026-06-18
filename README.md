@@ -51,16 +51,6 @@ https://cs50.harvard.edu/x/weeks/ai/
 - general-audience introduction to Large Language Models with technical details
 
 -------------------------
-- Deep Learning Frameworks: TensorFlow, PyTorch
-- LLM Development: LLM APIs, LangChain, RAG
-- AI Coding Tools: Claude Code, Codex, Cursor, GitHub Copilot
-- General AI Assistants: ChatGPT, Claude, Gemini, Microsoft 365 Copilot
-- AI Tools: NotebookLM, Claude Cowork
-
--------------
-- Prompt Engineering, RAG, Model fine-tuning
-
--------------------------
 ### The Missing Semester of Your CS Education (MIT, 2026)
 https://missing.csail.mit.edu/2026/
 - Topics: shell, Git, automation, agentic coding
@@ -79,6 +69,17 @@ https://missing.csail.mit.edu/2026/
 
 ### Vibe Coding & Agentic AI:
 - [5-Day AI Agents Intensive Vibe Coding Course with Google](https://www.kaggle.com/competitions/5-day-ai-agents-intensive-vibecoding-course-with-google)
+- very intensive
+- every day: whitepaper, tasks in codelabs, 1h live seesion 
+- codelabs connected mainly to usage Antigravity 2.0 - new Google Agentic tool
 
 
+### Topics:
+- Deep Learning Frameworks: TensorFlow, PyTorch
+- LLM Development: LLM APIs, LangChain, RAG
+- AI Coding Tools: Claude Code, Antygravity 2.0, Codex, Cursor, GitHub Copilot
+- General AI Assistants: ChatGPT, Claude, Gemini, Microsoft 365 Copilot
+- AI Tools: NotebookLM, Claude Cowork
 
+-------------
+- Prompt Engineering, RAG, Model fine-tuning
