@@ -1,4 +1,4 @@
-A curated collection of completely free, up-to-date resources and courses (mostly updated for **2025/2026**) from top universities, focusing on AI, Large Language Models (LLMs), and Agentic workflows.
+A curated collection of completely **free**, **up-to-date** courses (mostly updated for **2025/2026**) from **top universities**, focusing on AI.
 
 ---
 
