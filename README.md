@@ -86,7 +86,7 @@ A curated collection of completely **free**, **up-to-date** courses (mostly upda
 ---
 
 ## Topics:
-- AI > Machine Learning > Deep Learning > Large Language Model
+- **AI** > Machine Learning > Deep Learning > Large Language Model
 - **Deep Learning Frameworks:** TensorFlow, PyTorch
 - **LLM Development:** LLM APIs, LangChain, RAG
 - **AI Coding Tools:** Claude Code, Antigravity 2.0, Codex, Cursor, GitHub Copilot
