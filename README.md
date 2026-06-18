@@ -2,7 +2,7 @@
 
 There are many completely free resources from top universities.
 
-AI > Machine Learning > Deep Learning > Large Languge Model
+AI > Machine Learning > Deep Learning > Large Language Model
 
 ---
 
@@ -51,7 +51,18 @@ AI > Machine Learning > Deep Learning > Large Languge Model
 
 ---
 
-## LLM Usage and Intro
+## Extra - CS Core & Tooling
+
+### The Missing Semester of Your CS Education (MIT, 2026)
+- [Course Website](https://missing.csail.mit.edu/2026/)
+- **Topics:** shell, Git, automation, agentic coding
+- Shell is mainly for Linux and macOS. For Windows, WSL is recommended rather than PowerShell.
+- 9 lectures with exercises
+- The ["Agentic Coding"](https://missing.csail.mit.edu/2026/agentic-coding/) lecture is very interesting.
+
+---
+
+## Non university courses:
 
 ### How I use LLMs - Andrej Karpathy (Feb 2025)
 - [Andrej Karpathy Video (2h)](https://www.youtube.com/watch?v=EWvNQjAaOHw)
@@ -60,17 +71,6 @@ AI > Machine Learning > Deep Learning > Large Languge Model
 ### Intro to Large Language Models - Andrej Karpathy (Nov 2023)
 - [Andrej Karpathy Video (1h)](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 - General-audience introduction to Large Language Models with technical details
-
----
-
-## CS Core & Tooling
-
-### The Missing Semester of Your CS Education (MIT, 2026)
-- [Course Website](https://missing.csail.mit.edu/2026/)
-- **Topics:** shell, Git, automation, agentic coding
-- Shell is mainly for Linux and macOS. For Windows, WSL is recommended rather than PowerShell.
-- 9 lectures with exercises
-- The ["Agentic Coding"](https://missing.csail.mit.edu/2026/agentic-coding/) lecture is very interesting.
 
 ### New Anthropic courses 
 - [Anthropic Skilljar Portal](https://anthropic.skilljar.com/)
@@ -84,14 +84,14 @@ AI > Machine Learning > Deep Learning > Large Languge Model
 - [5-Day AI Agents Intensive Vibe Coding Course with Google](https://www.kaggle.com/competitions/5-day-ai-agents-intensive-vibecoding-course-with-google)
 - Very intensive
 - Every day: whitepaper, tasks in codelabs, 1h live session
-- Codelabs connected mainly to usage of Antigravity 2.0 - new Google Agentic tool
+- Codelabs connected mainly to the usage of Antigravity 2.0 - new Google Agentic tool
 
 ---
 
-### Topics Covered & Tools:
+## Topics:
 - **Deep Learning Frameworks:** TensorFlow, PyTorch
 - **LLM Development:** LLM APIs, LangChain, RAG
-- **AI Coding Tools:** Claude Code, Antygravity 2.0, Codex, Cursor, GitHub Copilot
+- **AI Coding Tools:** Claude Code, Antigravity 2.0, Codex, Cursor, GitHub Copilot
 - **General AI Assistants:** ChatGPT, Claude, Gemini, Microsoft 365 Copilot
 - **AI Tools:** NotebookLM, Claude Cowork
 - **Techniques:** Prompt Engineering, RAG, Model fine-tuning
