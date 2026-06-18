@@ -77,4 +77,8 @@ https://missing.csail.mit.edu/2026/
 - https://github.com/microsoft/ai-agents-for-beginners
 - https://github.com/microsoft/generative-ai-for-beginners
 
+### Vibe Coding & Agentic AI:
+- [5-Day AI Agents Intensive Vibe Coding Course with Google](https://www.kaggle.com/competitions/5-day-ai-agents-intensive-vibecoding-course-with-google)
+
+
 
